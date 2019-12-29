@@ -1,1 +1,1 @@
-image1.jpg 560 10 600 60 prohibitory
+2017_frana-strada.jpg 560 10 600 60 prohibitory
